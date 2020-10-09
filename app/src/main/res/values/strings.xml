@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">tgs2</string>
+    <string name="selamat_datang_di">Selamat Datang di</string>
+    <string name="todo">TODO</string>
+    <string name="selamat_datang_di_upn_veteran_jawa_timur">Selamat Datang di UPN Veteran Jawa Timur</string>
+    <string name="logo">logo</string>
+    <string name="selamat_datang_di_upn_veteran_jawa_timur_kampusbelanegara">selamat_datang_di_upn_veteran_jawa_timur #KampusBelaNegara</string>
+    <string name="univeritas_pembangunan_nasional_veteran_jawa_timur">Univeritas Pembangunan Nasional Veteran Jawa Timur</string>
+</resources>
